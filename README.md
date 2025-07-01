@@ -1,5 +1,40 @@
-# Desafio - Aula 6 Lógia e Programação
+# Desafio Aula 6 - Lógia e Programação
 Projeto proposto como desafio na aula 6 de Lógica e Programação - Júlio de Lima Mentoria 2.0  
 🔗 Acesse a mentoria: [mentoria.juliodelima.com.br](https://mentoria.juliodelima.com.br/)  
+
+
+# 🧪 Desafio: Testes Unitários com Mocha
+
+Este projeto consiste em dois arquivos principais:
+
+- Um arquivo JavaScript contendo funções a serem testadas (`pesquisacpf.js`)
+- Um arquivo de testes unitários utilizando a biblioteca **Mocha** (`pesquisacpf.test.js`)
+
+O objetivo é demonstrar a aplicação de **testes unitários**, validando a cobertura de **sentença** (statement coverage) e **decisão** (branch/decision coverage).
+
+---
+
+## 📦 Tecnologias Utilizadas
+
+- [Node.js](https://nodejs.org/)
+- [Mocha](https://mochajs.org/)
+- [Chai](https://www.chaijs.com/) – biblioteca de asserção (opcional, mas recomendada)
+
+---
+
+## 📁 Estrutura do Projeto
+
+📁 src  
+│   └── pesquisacpf.js  
+📁 test  
+│   └── pesquisacpf.test.js  
+.gitignore  
+package.json  
+
+---
+
+Este desafio demonstra o uso de Mocha para testes unitários em JavaScript, aplicando boas práticas de cobertura de código para garantir a confiabilidade da lógica de negócio.
+
+
 
 

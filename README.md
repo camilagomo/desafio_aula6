@@ -49,7 +49,7 @@ npm init -y
 npm install mocha
 
 ---
-## Executando o Mocha e visualizando as asserções no terminal
+## Visualizando as asserções no terminal com Mocha  
 
 Ao executar **npm test** será retornado no terminal o resultado dos testes:  
 

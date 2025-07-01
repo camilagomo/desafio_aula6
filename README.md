@@ -14,7 +14,7 @@ O objetivo é demonstrar a aplicação de **testes unitários**, validando a cob
 
 ---
 
-# Técnicas de Cobertura Aplicadas
+## Técnicas de Cobertura Aplicadas
 ✔️ Cobertura de Sentença  
 Garante que todas as linhas de código foram executadas pelo menos uma vez.  
 
@@ -40,9 +40,25 @@ Garante que todas as estruturas de decisão (if, else, etc.) foram exercitadas e
 .gitignore  
 package.json  
 
+
 ---
 
-Este desafio demonstra o uso de Mocha para testes unitários em JavaScript, aplicando boas práticas de cobertura de código para garantir a confiabilidade da lógica de negócio.
+## Instalando o Node e o Mocha
+
+npm init -y  
+npm install mocha
+
+---
+## Executando o Mocha e visualizando as asserções no terminal
+
+Ao executar **npm test** será retornado no terminal o resultado dos testes:  
+
+![image](https://github.com/user-attachments/assets/68e114f8-5823-4828-932d-f89dee6809ec)
+
+
+---
+
+Este desafio demonstra o uso de Mocha para testes unitários em JavaScript, aplicando boas práticas de cobertura de código.
 
 
 

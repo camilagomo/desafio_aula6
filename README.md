@@ -53,7 +53,13 @@ npm install mocha
 
 Ao executar **npm test** será retornado no terminal o resultado dos testes:  
 
-![image](https://github.com/user-attachments/assets/68e114f8-5823-4828-932d-f89dee6809ec)
+> mocha  
+
+  Pesquisar CPF  
+    ✔ Deve retornar nome, cpf e frutas favoritas do CPF '25836974133'  
+    ✔ Deve retornar 'CPF não encontrado' para um CPF inexistente  
+
+  2 passing (12ms)  
 
 
 ---

@@ -3,7 +3,7 @@ Projeto proposto como desafio na aula 6 de Lógica e Programação - Júlio de L
 🔗 Acesse a mentoria: [mentoria.juliodelima.com.br](https://mentoria.juliodelima.com.br/)  
 
 
-# 🧪 Desafio: Testes Unitários com Mocha
+# Desafio: Testes Unitários com Mocha
 
 Este projeto consiste em dois arquivos principais:
 
@@ -11,6 +11,15 @@ Este projeto consiste em dois arquivos principais:
 - Um arquivo de testes unitários utilizando a biblioteca **Mocha** (`pesquisacpf.test.js`)
 
 O objetivo é demonstrar a aplicação de **testes unitários**, validando a cobertura de **sentença** (statement coverage) e **decisão** (branch/decision coverage).
+
+---
+
+# Técnicas de Cobertura Aplicadas
+✔️ Cobertura de Sentença  
+Garante que todas as linhas de código foram executadas pelo menos uma vez.  
+
+✔️ Cobertura de Decisão  
+Garante que todas as estruturas de decisão (if, else, etc.) foram exercitadas em seus diferentes caminhos.  
 
 ---
 
